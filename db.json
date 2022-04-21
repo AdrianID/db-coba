@@ -1,26 +1,24 @@
-{
-  "products": [
+[
     {
-      "stock": 30,
-      "name": "Tepung Beras Rosebrand",
-      "price": 22000,
-      "description": "Tepung terbaik dari petani lokal",
-      "id": 1
+      "id": 1,
+      "title": "Sayur Bayam",
+      "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis!",
+      "price": 10000,
+      "stock": 50
     },
     {
-      "stock": 40,
-      "name": "Flour - All Purpose",
-      "price": 15000,
-      "description": "Supplement Right Vocal Cord with Nonaut Sub, Via Opening",
-      "id": 2
+        "id": 2,
+        "title": "Sayur Asem",
+        "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis!",
+        "price": 15000,
+        "stock": 55
     },
     {
-      "stock": 50,
-      "name": "Beer - Mcauslan Apricot",
-      "price": 11200,
-      "description": "Reattachment of Right Shoulder Region, Open Approach",
-      "id": 3
+        "id": 3,
+        "title": "Sayur Lodeh",
+        "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis!",
+        "price": 20000,
+        "stock": 40
     }
-  ],
-  "cart": []
-}
+    
+  ]
